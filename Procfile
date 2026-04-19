@@ -1,1 +1,1 @@
-worker: python biru_final.py
+worker: python "bot (2).py"
